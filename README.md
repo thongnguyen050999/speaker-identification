@@ -27,11 +27,11 @@ With each option, you will be asked to supply the apt directory.
 
 ### Weights
 
-You can download trained models in this [trained models](https://drive.google.com/file/d/1jx6nKtTDBj_iAjU0OEvuIgIU1m2d9CpM/view)
+You can download trained models in this [link](https://drive.google.com/file/d/1jx6nKtTDBj_iAjU0OEvuIgIU1m2d9CpM/view)
 
 ### Data
 
-You can download data (train + short test + long test) in this [data](https://drive.google.com/file/d/1Ad74X2egsnU7Y3158DaOUtqVmBYAZXUb/view?usp=sharing)
+You can download data (train + short test + long test) in this [link](https://drive.google.com/file/d/1Ad74X2egsnU7Y3158DaOUtqVmBYAZXUb/view?usp=sharing)
 
 
 
